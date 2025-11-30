@@ -40,7 +40,7 @@
     "toolchain-gccarmnoneeabi": {
       "type": "toolchain",
       "owner": "platformio",
-      "version": "~1.140201.0"
+      "version": "~1.120301.0"
     },
     "framework-arduinorenesas-uno": {
       "type": "framework",
